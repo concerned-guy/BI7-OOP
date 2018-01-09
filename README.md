@@ -1,19 +1,25 @@
-USTH ICT7 Object-Oriented Programming
-=====================================
+# Project Management Pro Limited Edition Deluxe v0.99
+Helps you manage projects.
 
-Students are expected to:
-* Fork this repository to your github account
-* Create new project with IntelliJ IDEA and Maven
-* Append name (and purpose) of your project to this README file
-* Push your commits regularly, with **proper** commit messages
+Credits: *Team 1337*
 
+# Compile
+```bash
+javac *.java
+```
 
-Member list
-=====================================
+# Run
+- On Windows
+```
+Double click on file `prmg.bat' (may appears as `prmg' only)
+```
 
-*Add student list of your group here*
+- On Linux
+```bash
+sh prmg.sh
+```
 
-Project description
-=====================================
-
-*Add your project description here*
+or, alternatively
+```bash
+java MainFrame
+```
